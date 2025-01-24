@@ -1,0 +1,12 @@
+Please I swear to god make opti !
+->the far plane should be an option, not a default
+->if a precedent line couldnt be drawn, just dont even ask for the next one and just quit already man
+->
+```
+if (far.left is not in screen)
+	dont't go down to the camera, and go directly to the next one.
+	//same for the right ?
+```
+
+Add a menu
+Add support for multiple maps
