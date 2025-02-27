@@ -24,13 +24,13 @@ $ make && make clean
 
 FDF is, as shown bellow, supposed to be a simple map renderer ...
 <p align="center">
-	<img src=""/>
-	<img src=""/>
+	![Isometric View 1](img/iso_1.png)
+	![Isometric View 2](img/iso_2.png)
 </p>
-However, I had a bit of fun, and got a bit carried away, and changed it into a first person render !
+However, I had a bit of fun, and got a bit carried away, and created a first person render !
 <p align="center">
-	<img src=""/>
-	<img src=""/>
+	![Perspective View 1](img/persp_1.png)
+	![Perspective View 2](img/persp_2.png)
 </p>
 
 ![----------------------------------------------------------------------------------------------------------](https://github.com/hle-hena/hle-hena/blob/main/assets/aqua.png)
